@@ -1,0 +1,6 @@
+**/.metadata
+**/Debug
+*.json
+.vscode/
+*.xml
+*.prefs
